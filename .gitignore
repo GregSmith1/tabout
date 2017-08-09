@@ -1,3 +1,14 @@
+# The executable
+tabout
+
+# Code::Blocks files
+*.cbp
+*.workspace
+*.compiler_*.xml
+*.options_*.xml
+*.layout
+*.depend
+
 # Prerequisites
 *.d
 
